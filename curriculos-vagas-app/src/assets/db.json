@@ -1,0 +1,19 @@
+{
+  "vagas": [
+    {
+      "id": "1",
+      "nome": "Desenvolver FrontEnd Jr",
+      "foto": "foto1.jpg",
+      "descricao": "Trabalhar com HTML, CSS e JS. Criado em 07/02/2024 Pra testes",
+      "salario": "1000"
+    },
+    {
+      "id": "1",
+      "nome": "Desenvolver FrontEnd Jr",
+      "foto": "foto1.jpg",
+      "descricao": "Trabalhar com HTML, CSS e JS. Criado em 07/02/2024 Pra testes",
+      "salario": "1000"
+    }
+  ],
+  "curriculos": []
+}
